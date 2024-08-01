@@ -1,0 +1,14 @@
+C:\Users\Duc\OneDrive\Desktop\SD19317\A_DAL\DAL_CodeFirst\bin\Debug\net8.0\DAL_CodeFirst.deps.json
+C:\Users\Duc\OneDrive\Desktop\SD19317\A_DAL\DAL_CodeFirst\bin\Debug\net8.0\DAL_CodeFirst.runtimeconfig.json
+C:\Users\Duc\OneDrive\Desktop\SD19317\A_DAL\DAL_CodeFirst\bin\Debug\net8.0\DAL_CodeFirst.dll
+C:\Users\Duc\OneDrive\Desktop\SD19317\A_DAL\DAL_CodeFirst\bin\Debug\net8.0\DAL_CodeFirst.pdb
+C:\Users\Duc\OneDrive\Desktop\SD19317\A_DAL\DAL_CodeFirst\obj\Debug\net8.0\DAL_CodeFirst.csproj.AssemblyReference.cache
+C:\Users\Duc\OneDrive\Desktop\SD19317\A_DAL\DAL_CodeFirst\obj\Debug\net8.0\DAL_CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duc\OneDrive\Desktop\SD19317\A_DAL\DAL_CodeFirst\obj\Debug\net8.0\DAL_CodeFirst.AssemblyInfoInputs.cache
+C:\Users\Duc\OneDrive\Desktop\SD19317\A_DAL\DAL_CodeFirst\obj\Debug\net8.0\DAL_CodeFirst.AssemblyInfo.cs
+C:\Users\Duc\OneDrive\Desktop\SD19317\A_DAL\DAL_CodeFirst\obj\Debug\net8.0\DAL_CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Duc\OneDrive\Desktop\SD19317\A_DAL\DAL_CodeFirst\obj\Debug\net8.0\DAL_CodeFirst.dll
+C:\Users\Duc\OneDrive\Desktop\SD19317\A_DAL\DAL_CodeFirst\obj\Debug\net8.0\refint\DAL_CodeFirst.dll
+C:\Users\Duc\OneDrive\Desktop\SD19317\A_DAL\DAL_CodeFirst\obj\Debug\net8.0\DAL_CodeFirst.pdb
+C:\Users\Duc\OneDrive\Desktop\SD19317\A_DAL\DAL_CodeFirst\obj\Debug\net8.0\DAL_CodeFirst.genruntimeconfig.cache
+C:\Users\Duc\OneDrive\Desktop\SD19317\A_DAL\DAL_CodeFirst\obj\Debug\net8.0\ref\DAL_CodeFirst.dll
